@@ -1,25 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Andreas%20Cisi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:C084FC&height=200&section=header&text=Andreas%20Cisi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Developer+Engineer+%40+Amazon;Computer+Engineering+%26+CS+Grad+%40+Unicamp;Building+games+and+web+projects+for+fun" alt="Typing SVG" />
 </a>
 
+Off the clock I build games and web projects — part of the winning team for the 2023 NASA International Space Apps Challenge.
+
 </div>
 
-Off the clock I build games and web projects — part of the winning team for the 2023 NASA International Space Apps Challenge.
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,unity,godot,git,github&theme=dark" alt="Tech stack icons" />
 </p>
+
+
+## 📈 Activity
+
+<div align="center">
+  <img loading="lazy" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheDeas343&theme=react-dark&hide_border=true&color=C084FC&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2" alt="Contribution activity graph" />
+</div>
+
+<div align="center">
+  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=TheDeas343&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&border_color=8A2BE2" alt="Andreas' GitHub stats" />
+  <img loading="lazy" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDeas343&theme=dracula&hide_border=true&border_radius=10&background=1a1b27&ring=8A2BE2&fire=C084FC" alt="GitHub streak stats" />
+</div>
 
 ## 🔗 Connect with me
 
@@ -33,8 +41,8 @@ Off the clock I build games and web projects — part of the winning team for th
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:C084FC&height=100&section=footer" alt="footer" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheDeas343&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TheDeas343&style=for-the-badge&color=8A2BE2" alt="Profile views" />
 </p>
