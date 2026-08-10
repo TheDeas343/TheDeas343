@@ -15,7 +15,7 @@ Off the clock I like to build indie games — part of the winning team for the 2
 <div align="center">
 
 <a href="https://thedeas343.github.io/" target="_blank">
-  <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fthedeas343.github.io%2F?w=1000&h=600" width="700" alt="Preview of Andreas' portfolio — click to visit" />
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fthedeas343.github.io%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=3000&viewport.width=1200&viewport.height=750" width="700" alt="Preview of Andreas' portfolio — click to visit" />
 </a>
 
 <br />
