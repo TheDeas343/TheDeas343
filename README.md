@@ -18,16 +18,7 @@ Off the clock I build games and web projects — part of the winning team for th
 </p>
 
 
-## 📈 Activity
 
-<div align="center">
-  <img loading="lazy" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheDeas343&theme=react-dark&hide_border=true&color=C084FC&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2" alt="Contribution activity graph" />
-</div>
-
-<div align="center">
-  <img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=TheDeas343&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&border_color=8A2BE2" alt="Andreas' GitHub stats" />
-  <img loading="lazy" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDeas343&theme=dracula&hide_border=true&border_radius=10&background=1a1b27&ring=8A2BE2&fire=C084FC" alt="GitHub streak stats" />
-</div>
 
 ## 🔗 Connect with me
 
