@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:C084FC&height=200&section=header&text=Andreas%20Cisi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Developer+Engineer+%40+Amazon;Computer+Engineering+%26+CS+Grad+%40+Unicamp;Building+games+and+web+projects+for+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Developer+Engineer+%40+Amazon;Computer+Engineering+%26+CS+Grad+%40+Unicamp;Building+games+for+fun" alt="Typing SVG" />
 </a>
 
-Off the clock I build games and web projects — part of the winning team for the 2023 NASA International Space Apps Challenge.
+Off the clock I like build indie games — part of the winning team for the 2023 NASA International Space Apps Challenge.
 
 </div>
 
