@@ -34,6 +34,3 @@ Off the clock I build games and web projects — part of the winning team for th
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:C084FC&height=100&section=footer" alt="footer" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheDeas343&style=for-the-badge&color=8A2BE2" alt="Profile views" />
-</p>
